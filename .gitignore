@@ -32,3 +32,6 @@
 
 # Ignore /vendor/bundle
 /vendor
+
+# Ignore database.yml
+/config/database.yml
